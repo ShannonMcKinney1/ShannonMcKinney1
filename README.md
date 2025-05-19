@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my undergraduate degree at Ohio State
-- 🌱 I’m currently learning React and Spring Boot Development
+- 🔭 I’m currently working as a software developer
+- 🌱 I’m currently learning astro 🚀
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a foodie!
 
